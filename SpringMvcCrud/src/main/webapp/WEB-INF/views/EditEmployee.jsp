@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <%@include file="./base.jsp"%>
+<title><c:out value="${title }"> Edit Employee</c:out></title>
 </head>
 <body>
 
